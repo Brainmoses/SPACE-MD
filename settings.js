@@ -5,7 +5,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
   
   //Enter your number here for administrative access to the bot
-  BOT_ADMIN: process.env.BOT_ADMIN || '254712345678',
+  BOT_ADMIN: process.env.BOT_ADMIN || '254710329917',
   
   //Bot web server port
   PORT: parseInt(process.env.PORT) || 2605,
