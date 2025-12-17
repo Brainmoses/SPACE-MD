@@ -1,0 +1,43 @@
+{
+  "name": "Virus-254-king",
+  "version": "2.1.1",
+  "description": "Virus-254-king - Advanced WhatsApp Bot",
+  "website": "cooming soon",
+  "logo": "https://files.catbox.moe/se5e6e.jpg",
+  "keywords": ["malvin-xd", "whatsapp-bot"],
+  "repository": "https://files.catbox.moe/se5e6e.jpg",
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "BOT_NAME": {
+      "description": "Your Bot Name",
+      "required": true,
+      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "Virus-254-king"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": true,
+      "value": "254710329917"
+    },
+    "SESSION_ID": {
+      "description": "Put your session-id here. Must Start with 'starcore~'",
+      "required": false,
+      "value": "Virus-254-king"
+    },
+    "MODE": {
+      "description": "Set Mode to 'public' to work in all chats, 'private' to work for you only",
+      "required": true,
+      "value": "public"
+    },
+    "TIMEZONE": {
+      "description": "Set your timezone",
+      "required": true,
+      "value": "Africa/Harare"
+    }
+  }
+}
