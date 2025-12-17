@@ -1,9 +1,9 @@
 {
   "name": "SPACE-MD",
   "description": "SPACE-MD, your day to day assistant!",
-  "logo": "https://files.catbox.moe/ia1mgm.jpg",
+  "logo": "https://files.catbox.moe/se5e6e.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/SPACE-MD",
+  "repository": "https://files.catbox.moe/se5e6e.jpg",
   "stack": "container",
   "addons": [
     {
